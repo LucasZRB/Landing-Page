@@ -1,7 +1,7 @@
 {
   "name": "landing-page",
   "version": "1.0.0",
-  "description": "",
+  "description": "Landing Page donde pruebo Tailwind y manejo de API's",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d src"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/LucasZRB/Landing-Page.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "LucasZRB",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LucasZRB/Landing-Page/issues"
