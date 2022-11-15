@@ -1,0 +1,14 @@
+header {
+    background: rgb(200,191,148);
+    background: linear-gradient(269deg, rgba(200,191,148,1) 0%, rgba(145,135,108,1) 82%, rgba(249,251,246,1) 100%, rgba(245,247,244,1) 100%);
+}
+
+aside {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+footer {
+    background: rgb(111,23,21);
+    background: linear-gradient(179deg, rgba(111,23,21,1) 40%, rgba(19,12,5,1) 100%);
+}
